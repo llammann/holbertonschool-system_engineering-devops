@@ -4,19 +4,19 @@ Welcome to the repository for various web infrastructure designs. This README pr
 
 ## Project 0: Simple Web Stack
 
-**Description**: A basic web infrastructure design using a single server with LAMP stack components.
+A basic web infrastructure design using a single server with LAMP stack components.
 
 ## Project 1: Scalable Web Infrastructure
 
-**Description**: An advanced infrastructure design with load balancers, multiple servers, and a database cluster.
+An advanced infrastructure design with load balancers, multiple servers, and a database cluster.
 
 ## Project 2: Secure and Monitored Infrastructure
 
-**Description**: A more secure and monitored infrastructure setup with firewalls, SSL certificates, and monitoring tools.
+A more secure and monitored infrastructure setup with firewalls, SSL certificates, and monitoring tools.
 
 ## Project 3: Load Balancer and Component Separation
 
-**Description**: Infrastructure with a load balancer, and separate servers for web, application, and database components.
+Infrastructure with a load balancer, and separate servers for web, application, and database components.
 
 
 ## Additional Resources
